@@ -12,7 +12,6 @@ My goal is to build strong practical skills through hands-on labs, security tool
 - Vulnerability Assessment
 - Web Application Security
 - Penetration Testing
-- SOC & Blue Team Fundamentals
 - Phishing & Social Engineering
 - GoPhish
 - Active Directory
